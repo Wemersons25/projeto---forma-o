@@ -1,0 +1,17 @@
+h2{
+    color:aliceblue;
+}
+
+body{
+    background-color: #545454;
+    color: aliceblue;
+    text-align: center;
+}
+
+header{
+    border-bottom: 2px solid grey;
+}
+
+footer{
+    border-top: 2px solid grey;
+}
